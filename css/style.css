@@ -1,0 +1,43 @@
+.nav-item .nav-link {
+    color: rgba(252, 251, 251, 0.649);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: white; /* Bright green on hover/active */
+}
+
+#home-page {
+    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+    margin-bottom: 0px;
+}
+
+span {
+    color:lab(86.17% -80.98 65.31)
+}
+
+.heading-text {
+    margin-top: 100px;
+}
+
+.title-text {
+    font-size: 44px;
+}
+
+.sub-title {
+    font-size: 24px;
+}
+
+.profile-image {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.skill-box {
+    color: black;
+    background-color: rgb(245, 245, 245);
+}
+
+.carousel-caption {
+    background-color: #00000090;
+}
